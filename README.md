@@ -30,7 +30,7 @@ You can install the module using Python Package Index using the below command.
 
 
 
-# Here are some possible future functionalities that can be covered in the future versions of the module:
+# Possible of future functionalities that can be covered in the future versions :
 
 If the paragraph contains a money figure e.g. two million three thousand nine hundred and eighty-four then we may convert it to numbers as 2003984.
 
